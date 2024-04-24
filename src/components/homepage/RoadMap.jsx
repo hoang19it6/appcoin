@@ -9,7 +9,7 @@ const RoadMap = () => {
            <Parallax speed={-10}>
              <div className='flex items-center justify-center text-center gap-3 flex-col mb-16'>
                 <img src="./images/wave-pattern.webp" className='h-7' alt="wave" />
-                <p className='text-4xl font-medium'>June <span className='text-purple-500'>Submission</span></p>
+                <p className='text-4xl font-medium'>ROAD <span className='text-purple-500'>MAP</span></p>
             </div>
            </Parallax>
 
@@ -27,20 +27,32 @@ function Step1() {
         <div>
             <img src="./images/fwd-2.png" alt="fwd" className='mb-3'/>
             <img className='w-36' src="https://wordpress.iqonic.design/product/wp/ealain/wp-content/uploads/2022/07/Group-3.webp" alt="step" />
-            <p className='text-purple-500 mt-3'>Completed</p>
-            <h3 className='text-3xl font-semibold my-4 mt-2'>React Interface</h3>
+            <p className='text-purple-500 mt-3'></p>
+            <h3 className='text-3xl font-semibold my-4 mt-2'>1.PHASE</h3>
             <div className='flex flex-col gap-3'>
                 <p>
-                    ✨ Vite React Interface
+                    ✨ WEBSITE BUILDING
                 </p>
                 <p>
-                    ✨ Cool Animations
+                    ✨ AUDIT CONTRACT
                 </p>
                 <p>
-                    ✨ Framer Motion
+                    ✨ LAUNCH ON KEWLSWAP.
                 </p>
                 <p>
-                    ✨ Figma Design.
+                    ✨ UPDATE LOGO & SOCIAL MEDIA ON GECKOTERMINAL.
+                </p>
+                <p>
+                    ✨ PROMOTIONAL COOPERATION WITH
+                </p>
+                <p>
+                    ✨ PARTNER & BIG KOLS.
+                </p>
+                <p>
+                    ✨ COINGECKO LISTING.
+                </p>
+                <p>
+                    ✨ THE FIRST MILESTONE "1,000 HOLDERS"
                 </p>
             </div>
         </div>
@@ -51,20 +63,26 @@ function Step2() {
     return (
         <div>
             <img className='w-36' src="https://wordpress.iqonic.design/product/wp/ealain/wp-content/uploads/2022/07/Group-6.webp" alt="step" />
-            <p className='text-purple-500 mt-3'>Completed</p>
-            <h3 className='text-3xl font-semibold my-4 mt-2'>Web3 Interface</h3>
+            <p className='text-purple-500 mt-3'></p>
+            <h3 className='text-3xl font-semibold my-4 mt-2'>02.PHASE</h3>
             <div className='flex flex-col gap-3'>
                 <p>
-                    ✨ Connect Wallet
+                    ✨ BIG PARTNERS ANNOUNCEMENT.
                 </p>
                 <p>
-                    ✨ Thirdweb SDK
+                    ✨ CHINESE MARKETING
                 </p>
                 <p>
-                    ✨ NFT Gating
+                    ✨ TURKISH MARKETING.
                 </p>
                 <p>
-                    ✨ Wallet SDK.
+                    ✨ CERTIK AUDIT.
+                </p>
+                <p>
+                    ✨ DOGWIFHAT CHILIZ NFT COLLECTION RELEASE.
+                </p>
+                <p>
+                    ✨ REACH 5,000 HOLDERS.
                 </p>
             </div>
              <img src="./images/fwd-1.png" alt="fwd" className='mt-5'/>
@@ -77,21 +95,19 @@ function Step3() {
         <div>
             <img src="./images/fwd-2.png" alt="fwd" className='mb-3'/>
             <img className='w-36' src="https://wordpress.iqonic.design/product/wp/ealain/wp-content/uploads/2022/07/Group-5.webp" alt="step" />
-            <p className='text-purple-500 mt-3'>Completed</p>
-            <h3 className='text-3xl font-semibold my-4 mt-2'>Accomplishment</h3>
+            <p className='text-purple-500 mt-3'></p>
+            <h3 className='text-3xl font-semibold my-4 mt-2'>3.PHASE</h3>
             <div className='flex flex-col gap-3'>
                 <p>
-                    ✨ NFT Gated Website
+                    ✨ LAUNCHING DOGWIFHAT GAMEFI.
                 </p>
                 <p>
-                    ✨ Wallet Integration
+                    ✨ TOP 100 CEX LISTING.
                 </p>
                 <p>
-                    ✨ Cool Animations
+                    ✨ TOP 10 CEX LISTING.
                 </p>
-                <p>
-                    ✨ Build on Time.
-                </p>
+                
             </div>
         </div>
     )

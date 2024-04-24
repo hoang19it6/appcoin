@@ -34,10 +34,11 @@ const Collection = () => {
                 <div className="max-w-lg">
                     <img src="./images/wave-pattern.webp" className='h-7' alt="wave" />
                     <h3 className='text-4xl font-semibold underline-offset-8 mt-4'>
-                        AngelHack Past <br /><span className=' text-purple-500'>Monthly Challenge</span>
+                        DOGWIFHAT <br /><span className=' text-purple-500'>VS MEMECOIN</span>
                     </h3>
                     <p className="text-gray-500 mt-5">
-                        AngelHack monthly challenges run for 2 weeks every month, with the aim to equip developers with a new skill every month.
+                    No Taxes, 95% Liquidity Pooled, 5% Marketing. It’s that simple.
+                    LP tokens are burnt, and contract ownership is renounced
                     </p>
                     <Link to="/collection">
                         <button className='bg-purple-600 px-8 py-2 rounded-md text-sm mt-6'>View More 😎</button>
