@@ -17,7 +17,7 @@ const About2 = () => {
         <div className='max-w-lg text-center flex items-center justify-center flex-col gap-5'>
           <img src="./images/wave-pattern.webp" className='h-7' alt="wave" />
           <h3 className='text-5xl  font-medium'>
-            <span className='text-purple-500'>HOW </span> TO BUY
+            <span className='text-purple-500'> </span>HOW TO BUY
           </h3>
           <p className='text-gray-1000 mt-3'>
             
